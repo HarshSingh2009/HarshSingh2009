@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshsingh2009&label=Profile%20views&color=0e75b6&style=flat" alt="harshsingh2009" /> </p>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harsh+Singh!;" />
 </h1>
@@ -28,30 +26,39 @@
 <br>
 <br>
 
-<h2 align="left">⚒️ Languages and Tools: ⚒️</h2>
+<h2 align="center">⚒️ Languages and Tools: ⚒️</h2>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,vscode,py,github,git,gcp,mongodb,discord,figma,arduino,selenium)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,vscode,py,github,git" /> <br>
+    <img src="https://skillicons.dev/icons?i=flask,gcp,mongodb,discord,figma,arduino,selenium" />
+  </a>
+</p>
 
 <br>
 <br>
+<br>
+<br>
 
-<h2 align="left"> 🏆 Achivements: 🏆 </h2>
+<div align='center'>
+
+<h2 align="center"> 🏆 Achivements: 🏆 </h2>
 <u></u>
-<ul>
-  <li><h4 align='left'><b>Google TensorFlow Developer Certified   <a href='https://oxidized-bank-168.notion.site/Cracking-the-TensorFlow-Developer-Certification-Exam-at-age-13-My-Journey-b2bcb503eb754cae9c28458499826faa?pvs=4'>[Check Blog Post]</a> ✅</b></h4> <img src='https://raw.githubusercontent.com/HarshSingh2009/Certificates/main/tensorflow-developer-certificate.png'>
-  <li><h4 align='left'><b>Scaler Discord Community Moderator ✅</b></h4></li>
-</ul>
+
+<div style='text-align: center;'>
+<h4 align='center'><b>-- Google TensorFlow Developer Certified<a href='https://oxidized-bank-168.notion.site/Cracking-the-TensorFlow-Developer-Certification-Exam-at-age-13-My-Journey-b2bcb503eb754cae9c28458499826faa?pvs=4'>[Check Blog Post]</a> ✅ --</b></h4> <img src='https://raw.githubusercontent.com/HarshSingh2009/Certificates/main/tensorflow-developer-certificate.png'>
+<h4 align='center'><b>-- Scaler Discord Community Moderator ✅-- </b></h4></li>
+</div>
 
 <br>
 <br>
 
-<h2 align="left"> 📊 Stats: 📊 </h2>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshsingh2009&show_icons=true&locale=en&layout=compact" alt="harshsingh2009" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshsingh2009&show_icons=true&locale=en" alt="harshsingh2009" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshsingh2009&" alt="harshsingh2009" /></p>
-
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=harshsingh2009&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=harshsingh2009&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=harshsingh2009&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
