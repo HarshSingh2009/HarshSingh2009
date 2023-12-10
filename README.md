@@ -47,8 +47,14 @@
 <u></u>
 
 <div style='text-align: center;'>
-<h4 align='center'><b>-- Google TensorFlow Developer Certified<a href='https://oxidized-bank-168.notion.site/Cracking-the-TensorFlow-Developer-Certification-Exam-at-age-13-My-Journey-b2bcb503eb754cae9c28458499826faa?pvs=4'>[Check Blog Post]</a> ✅ --</b></h4> <img src='https://raw.githubusercontent.com/HarshSingh2009/Certificates/main/tensorflow-developer-certificate.png'>
-<h4 align='center'><b>-- Scaler Discord Community Moderator ✅-- </b></h4></li>
+    <h4 align='center'><b>-- Google TensorFlow Developer Certified<a href='https://oxidized-bank-168.notion.site/Cracking-the-TensorFlow-Developer-Certification-Exam-at-age-13-My-Journey-b2bcb503eb754cae9c28458499826faa?pvs=4'>[Check Blog Post]</a> ✅ --</b></h4> <img src='https://raw.githubusercontent.com/HarshSingh2009/Certificates/main/tensorflow-developer-certificate.png'>
+    <h4 align='center'><b>-- Scaler Discord Community Moderator ✅-- </b></h4>
+    <br>
+    <h4 align='center'> <b> -- PyTorch (Proof of Course Completion) ✅--</b> </h4>
+    <img src='https://raw.githubusercontent.com/HarshSingh2009/Certificates/main/pytorch_course_completion.jpg', alt='certificate', width=375, height=375>
+    <h4 align='center'> <b> -- PyTorch (Proof of Course Completion) ✅--</b> </h4>
+    <img src='https://raw.githubusercontent.com/HarshSingh2009/Certificates/main/TensorFlow_Course_Completion.jpg', alt='certificate', width=375, height=375>
+    
 </div>
 
 <br>
