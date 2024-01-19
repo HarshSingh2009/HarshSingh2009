@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harsh+Singh!;" />
 </h1>
 
-<h3 align="center"> <b> 14 years old and Deep Learning Practitioner/Enthusiast </b> </h3>
+<h3 align="center"> <b> 14 years old Self-taught Machine/Deep-Learning Practitioner </b> </h3>
 
 <br>
 <br>
@@ -15,7 +15,9 @@
 
   🔭 I’m currently working on **A.I Health Scan PRO**
 
-  🌱 I’m currently learning **Object Detection, Segmentation and Pose detection**
+  ⚒  I currently work: **Scaler Discord Community Moderator in the Data Science and Machine Learning Field**
+
+  🌱 I’m currently learning **Generative AI**
 
   👨‍💻 All of my projects are available at [https://github.com/HarshSingh2009](https://github.com/HarshSingh2009)
 
