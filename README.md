@@ -101,7 +101,7 @@
     <br>
     <h4 align='center'> <b> -- PyTorch (Proof of Course Completion) ✅--</b> </h4>
     <img src='https://raw.githubusercontent.com/HarshSingh2009/Certificates/main/pytorch_course_completion.jpg', alt='certificate', width=375, height=375>
-    <h4 align='center'> <b> -- PyTorch (Proof of Course Completion) ✅--</b> </h4>
+    <h4 align='center'> <b> -- Tensorflow (Proof of Course Completion) ✅--</b> </h4>
     <img src='https://raw.githubusercontent.com/HarshSingh2009/Certificates/main/TensorFlow_Course_Completion.jpg', alt='certificate', width=375, height=375>
     
 </div>
